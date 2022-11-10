@@ -1,4 +1,4 @@
-  name: 'Arthur Oliveira Araújo',
+  ```name: 'Arthur Oliveira Araújo',
   from: 'Niteroi, Rio de Janeiro - Brasil',
   current_job: 'Estudante de Desenvolvedor Web Full Stack pela Trybe',
   hobbies: ['Games', 'Shows', 'Cinema'],
@@ -29,3 +29,4 @@
       'Git', 'Github',
     ],
   };
+``

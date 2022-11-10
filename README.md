@@ -2,7 +2,7 @@
   name: 'Arthur Oliveira Araújo',
   from: 'Niteroi, Rio de Janeiro - Brasil',
   current_job: 'Estudante de Desenvolvedor Web Full Stack pela Trybe',
-  hobbies: ['Games', 'Shows', 'Cinema'],
+  hobbies: ['Música', 'Shows', 'Games, 'Cinema'],
   email: 'arthuroaraujo@gmail.com',
   linkedin: 'https://www.linkedin.com/in/arthur-ara%C3%BAjo-dev/',
   contato: '(21) 983003254',
@@ -12,19 +12,19 @@
       estou fazendo transição de carreira para a programação e mais especificamente pro
       Desenvolvimento Web.`,
     myObjective: `Terminar o curso da Trybe e, em paralelo, obter o máximo de conhecimento
-    relacionado a programação `,
+      relacionado a programação `,
   };
   skills: {
     languages: [
       'Javascript',
     ],
-    backend: [
-      'Ainda em progresso',
-    ],
     frontend: [
       'HTML5', 'CSS3', 'Javascript', 'Jest',
       'React', 'Redux', 'Context API', 'Hooks',
       'RTL',
+    ],
+    backend: [
+      'Ainda em progresso',
     ],
     tools: [
       'Git', 'Github',

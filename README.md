@@ -24,7 +24,8 @@
       'RTL',
     ],
     backend: [
-      'Ainda em progresso',
+      'Node.js', 'Express', 'Sequelize',
+      'MySQL',
     ],
     tools: [
       'Git', 'Github',

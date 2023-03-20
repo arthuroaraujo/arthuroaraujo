@@ -12,7 +12,7 @@
       estou fazendo transição de carreira para a programação e mais especificamente pro
       Desenvolvimento Web.`,
     myObjective: `Terminar o curso da Trybe e, em paralelo, obter o máximo de conhecimento
-      relacionado a programação `,
+      relacionado a programação`,
   };
   skills: {
     languages: [
@@ -25,7 +25,7 @@
     ],
     backend: [
       'Node.js', 'Express', 'Sequelize',
-      'MySQL',
+      'MySQL', 'MongoDB', 'JWT',
     ],
     tools: [
       'Git', 'Github',

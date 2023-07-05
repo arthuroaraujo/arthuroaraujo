@@ -1,13 +1,42 @@
-Natural de Niterói - RJ. Estudante de Desenvolvimento Web FullStack pela Trybe e cursando Antropologia na Universidade Federal Fluminense (UFF) .
+# Bem-vindo ao meu perfil no GitHub!
 
-Contato:
-  Email: arthuroaraujo@gmail.com
-  Celular (WhatsApp): (21) 983003254
+## Sobre mim
+- Natural de Niterói - RJ.
+- Desenvolvedor Web Full-Stack formado pela Trybe.
+- Cursando Antropologia na Universidade Federal Fluminense (UFF).
 
-Tecnologias que sou familiar:
- - HTML | CSS | JavaScript | React | RTL | React Hooks | Context API | Jest | Redux
- - Node.js | Express | Sequelize | MySQL | MongoDB | JWT | TypeScript
- - Git | GitHub
- - Python
+## Contato
+- Email: arthuroaraujo@gmail.com
+- Celular (WhatsApp): (21) 983003254
 
-Objetivo: Conseguir meu primeiro emprego na área de tecnologia.
+## Tecnologias
+Aqui estão algumas das tecnologias com as quais estou familiarizado:
+
+### Front-end
+- HTML
+- CSS
+- JavaScript
+- React
+- RTL (React Testing Library)
+- React Hooks
+- Context API
+- Jest
+- Redux
+
+### Back-end
+- Node.js
+- Express
+- Sequelize
+- MySQL
+- MongoDB
+- JWT (JSON Web Tokens)
+- TypeScript
+
+### Controle de versão
+- Git
+- GitHub
+
+### Linguagem de programação adicional
+- Python
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo se tiver alguma pergunta ou colaboração em mente. Obrigado por visitar!

@@ -36,7 +36,4 @@ Aqui estão algumas das tecnologias com as quais estou familiarizado:
 - Git
 - GitHub
 
-### Linguagem de programação adicional
-- Python
-
 Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo se tiver alguma pergunta ou colaboração em mente. Obrigado por visitar!

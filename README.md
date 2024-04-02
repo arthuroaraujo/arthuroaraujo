@@ -2,8 +2,9 @@
 
 ## Sobre mim
 - Natural de Niterói - RJ.
-- Desenvolvedor Web Full-Stack formado pela Trybe.
+- Desenvolvedor Web Full-Stack.
 - Cursando Antropologia na Universidade Federal Fluminense (UFF).
+- Cursando Análise e Desenvolvimento de Sistemas pela Universidade Veiga de Almeida (UVA).
 
 ## Contato
 - Email: arthuroaraujo@gmail.com

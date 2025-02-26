@@ -3,7 +3,6 @@
 ## Sobre mim
 - Natural de Niterói - RJ.
 - Desenvolvedor Web Full-Stack.
-- Cursando Antropologia na Universidade Federal Fluminense (UFF).
 - Cursando Análise e Desenvolvimento de Sistemas pela Universidade Veiga de Almeida (UVA).
 
 ## Contato
@@ -17,11 +16,9 @@ Aqui estão algumas das tecnologias com as quais estou familiarizado:
 - HTML
 - CSS
 - JavaScript
+- TypeScript
+- Vue3
 - React
-- RTL (React Testing Library)
-- React Hooks
-- Context API
-- Jest
 - Redux
 
 ### Back-end

@@ -1,4 +1,4 @@
-# Bem-vindo ao meu perfil no GitHub!
+# Boas vindas ao meu perfil no GitHub!
 
 ## Sobre mim
 - Natural de Niterói - RJ.

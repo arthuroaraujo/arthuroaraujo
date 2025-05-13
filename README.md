@@ -19,16 +19,12 @@ Aqui estão algumas das tecnologias com as quais estou familiarizado:
 - TypeScript
 - Vue3
 - React
-- Redux
 
 ### Back-end
 - Node.js
-- Express
-- Sequelize
 - MySQL
 - MongoDB
-- JWT (JSON Web Tokens)
-- TypeScript
+- JWT
 
 ### Controle de versão
 - Git
